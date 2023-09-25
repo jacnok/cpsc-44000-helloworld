@@ -6,7 +6,7 @@ This project provides template code for Hello World for the Web and is based on
 Eric Pogue [email:epogue@lewisu.edu](mailto:epogue@lewisu.edu)
 
 ## Access
-By following the format established in pages.github.io: http://username.github.io/repository
+By following the format established in pages.github.io: "username.github.io/repository", \
 we receive the following: [https://jacnok.github.io/cpsc-44000-helloworld](jacnok.github.io/cpsc-44000-helloworld)
 
 ## Credits
