@@ -2,8 +2,12 @@
 This project provides template code for Hello World for the Web and is based on 
 [W3Schools HTML Tutorial](https://www.w3schools.com/html/). 
 
-## Author
+## Original Author
 Eric Pogue [email:epogue@lewisu.edu](mailto:epogue@lewisu.edu)
+
+## Access
+By following the format established in pages.github.io: http://username.github.io/repository
+we receive the following: [https://jacnok.github.io/cpsc-44000-helloworld](jacnok.github.io/cpsc-44000-helloworld)
 
 ## Credits
 [W3Schools HTML Tutorial](https://www.w3schools.com/html/) for the HTML template code.
